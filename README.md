@@ -1,10 +1,10 @@
-# 说明
+# 1. 下载客户端
+请到  https://github.com/shadowsocks 下载。
 
-1. 下载客户端地址:  https://github.com/shadowsocks
+#2. windows:
 
-2.服务器：168.235.83.114
-  端口：（...）
-  密码 ：(...)
-  加密方式：aes-256-cfb
-  
-3.
+
+
+#3. mac
+
+
