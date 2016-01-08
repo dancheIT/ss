@@ -10,13 +10,13 @@ Shadowsocks使用自行设计的协议进行加密通信。加密算法有AES、
 
 # 1. 下载客户端
 
-所有客户端都可以在  https://github.com/shadowsocks 下载。
-
-为方便使用，特加了mac、windows在此处
 
 windows 客户端下载：https://github.com/mockcoin/ss/raw/master/windows-ss-2.5.8.zip
 
 mac 客户端下载：https://github.com/mockcoin/ss/raw/master/mac-ss.zip
+
+其它未列出的客户端都可以在  https://github.com/shadowsocks 下载（包括windows 和 mac）。
+
 
 
 #2. windows使用步骤
